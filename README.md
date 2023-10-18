@@ -2,7 +2,7 @@
 Old Simulink&reg; driver blocks for two Arduino motor shields
 
 NOTE:
-The last time I have used this package was in 2014. Franky de Bruyne managed to get it to work for MATLAB 2016b aftes several tweaks, see [his review here](https://www.mathworks.com/matlabcentral/fileexchange/46133-motor-shields?tab=reviews#reviews_1948578) for more information. Many things have changed since then so I do not think this can work out of the box in a more recent MATLAB&reg; version. So I suggest you to look at the [Simulink Support Package for Arduino](https://www.mathworks.com/matlabcentral/fileexchange/40312-simulink-support-package-for-arduino-hardware) and find compatible board first. Then try to use this package only if everything else fails. 
+The last time I have used this package was in 2014. Franky de Bruyne managed to get it to work for MATLAB 2016b aftes several tweaks, see [his review here](https://www.mathworks.com/matlabcentral/fileexchange/46133-motor-shields?tab=reviews#reviews_1948578) for more information. Many things have changed since then so I do not think this can work out of the box in a more recent MATLAB&reg; version. So I suggest you to look at the [Simulink Support Package for Arduino](https://www.mathworks.com/matlabcentral/fileexchange/40312-simulink-support-package-for-arduino-hardware) and find compatible boards first. Then try to use this package only if everything else fails.
 
 CONTENT:
 This package contains motor driver blocks for 3 Arduino Motor Shields:
